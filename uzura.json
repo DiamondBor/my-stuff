@@ -1,0 +1,23 @@
+{
+    "spec": 1,
+    "name": "Uzura",
+    "previewText": "what if instead of pyoncord we had freakycord",
+    "main": {
+        "ggsans-Bold": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-BoldItalic": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-ExtraBold": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-ExtraBoldItalic": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-Medium": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-MediumItalic": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-Normal": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-NormalItalic": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-Semibold": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "ggsans-SemiboldItalic": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "NotoSans-Bold": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "NotoSans-ExtraBold": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "NotoSans-Medium": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "NotoSans-Normal": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "NotoSans-NormalItalic": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0",
+        "NotoSans-Semibold": "https://www.dropbox.com/scl/fi/i6kqwdks6izrw1uy0igh7/uzura.ttf?rlkey=ttlbjzuu4pc1dpot81ruixt13&st=4qlh5atu&dl=0"
+    }
+}
